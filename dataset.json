@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Georgia. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Georgia, US",
+  "export_job_id": "a5ff4298-1b81-4298-8eaf-417ec365a4f6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 916860,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-georgia-us-sample-916860",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/916860/beamstation_916860_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 4.58,
+  "sample_records": 1000,
+  "sample_sha256": "7432e0eb76e930b83c4ad57229edfe2a9ffb2333425cde52a3e7aa74aa5a5fa3",
+  "sample_size_bytes": 2624893,
+  "total_records": 21846,
+  "updated_at": "2026-04-09T17:55:08.855827+00:00"
+}
