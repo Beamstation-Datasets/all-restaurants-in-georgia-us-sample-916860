@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a5ff4298-1b81-4298-8eaf-417ec365a4f6",
+  "id_short": 916860,
+  "published_at": "2026-04-16T19:44:50Z",
+  "repo_name": "all-restaurants-in-georgia-us-sample-916860",
+  "sample_asset_name": "beamstation_916860_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/916860/beamstation_916860_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "7432e0eb76e930b83c4ad57229edfe2a9ffb2333425cde52a3e7aa74aa5a5fa3",
+  "sample_size_bytes": 2624893,
+  "total_records": 21846
+}
