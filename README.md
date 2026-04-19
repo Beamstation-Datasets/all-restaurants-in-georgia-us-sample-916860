@@ -9,9 +9,9 @@
 | Dataset ID | `916860` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 21,846 records |
-| Free sample size | 1,000 records (4.58%) |
-| Last export | 2026-04-09T17:55:08.855827+00:00 |
+| Full dataset size | 21,639 records |
+| Free sample size | 1,000 records (4.62%) |
+| Last export | 2026-04-16T20:32:58.156649+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-georgia-us-sample-916860/releases/download/sample-latest/beamstation_916860_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
