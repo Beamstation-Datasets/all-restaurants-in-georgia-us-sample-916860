@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Georgia. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Georgia, US",
-  "export_job_id": "8b043ade-784e-4477-b5ff-ba98bb3cf47f",
+  "export_job_id": "305b1d6d-e58f-437f-a939-70f2513f8bc3",
   "github_org": "Beamstation-Datasets",
   "id_short": 916860,
   "location_name": "Georgia",
   "location_type": "state",
   "repo_name": "all-restaurants-in-georgia-us-sample-916860",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/916860/beamstation_916860_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_pct": 4.62,
+  "sample_pct": 7.04,
   "sample_records": 1000,
-  "sample_sha256": "06cf7d08b97e64d651f86b2a2f7bca5b48f957ec1ebec8eb3837e7be184b1a19",
-  "sample_size_bytes": 2121704,
-  "total_records": 21639,
-  "updated_at": "2026-04-16T20:32:58.156649+00:00"
+  "sample_sha256": "e2641374d478a9751f9d26aad9e57a05e28f2d6d1f369b3063a83ea6cf302d23",
+  "sample_size_bytes": 2724871,
+  "total_records": 14205,
+  "updated_at": "2026-04-23T15:52:52.431887+00:00"
 }
